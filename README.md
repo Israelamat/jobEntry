@@ -34,11 +34,5 @@ JobEntry es una aplicación web desarrollada con PHP y Composer que simplifica l
 4. Haz push a tu rama en tu fork del repositorio.
 5. Crea un pull request en el repositorio original.
 
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
-
----
-
 ## Capturas de Pantalla
 [![jobEntry.jpg](https://i.postimg.cc/Y9j1JTDS/jobEntry.jpg)](https://postimg.cc/jw0wf3bV)
